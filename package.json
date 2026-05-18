@@ -1,0 +1,11 @@
+{
+  "name": "homo-skill-vault",
+  "version": "0.1.0",
+  "description": "HOMO Skill Vault — Encrypted skill distribution engine for AI coding agents",
+  "main": "vault.js",
+  "scripts": {
+    "start": "node vault.js",
+    "test": "node test/run-all.js"
+  },
+  "dependencies": {}
+}
