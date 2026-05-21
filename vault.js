@@ -1,3 +1,4 @@
+/* Copyright (c) 2026 HOMO AI. Proprietary. License required. Contact: 16208204@qq.com */
 /**
  * vault.js — HOMO Skill Vault 加密/解密引擎
  * 闭源C++二进制交付（原型为Node.js，后续重写为C++）
